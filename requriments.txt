@@ -1,0 +1,6 @@
+python-telegram-bot
+uuid
+mysql-connector-python
+pymysql
+requests
+regex
