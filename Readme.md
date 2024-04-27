@@ -16,4 +16,7 @@ pip install -r requriments.txt
 
 >Enter your database information in the **create_database.py** and **Database.py** files
 
+```
+python bot.py
+```
 
