@@ -7,7 +7,9 @@ This robot is both **inline mode** and
 It works by sending a message
 
 ### How to use
-> ```pip install -r requriments.txt ```
+```
+pip install -r requriments.txt
+```
 >In the bot file, replace line 8 of your bot token
 
 >To get the bot token, refer to the [BotFather](https://t.me/BotFather) bot and create a bot.
